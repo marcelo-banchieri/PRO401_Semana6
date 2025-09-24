@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- values/themes.xml -->
+<resources>
+    <style name="Theme.DistribuidoraApp3" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+    </style>
+</resources>

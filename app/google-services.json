@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217251800324",
+    "project_id": "distribuidoraapp3",
+    "storage_bucket": "distribuidoraapp3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217251800324:android:4a8ca0877d31df73d09c51",
+        "android_client_info": {
+          "package_name": "com.marcelo.distribuidoraapp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhx9dVuDTiI6p1p0oKy4am50LS99HrbN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
